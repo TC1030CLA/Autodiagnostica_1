@@ -104,7 +104,7 @@ TEST_CASE("Ex8", "[Probando multiplicación]")
     }
 }
 
-TEST_CASE("Ex8", "[Probando multiplicación escalar]")
+TEST_CASE("Ex9", "[Probando multiplicación escalar]")
 {
     Complejo c1(5,-2);
     Complejo c3 = c1.multiEscalar(2);
